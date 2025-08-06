@@ -181,5 +181,7 @@ The modular structure allows easy extension:
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
+It is based on https://github.com/pytr-org/pytr
+
 
