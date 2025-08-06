@@ -2,6 +2,8 @@
 
 This Java application exports transaction data from Trade Republic to Hibiscus banking software XML format. It is a Java port of the Python `hibiscusPrepare` scripts.
 
+Es kann als Basis für ein Hibiscus-Plugin genutzt werden. Freiwillige vor.
+
 ## Features
 
 - Export Trade Republic transactions to Hibiscus-compatible XML format
